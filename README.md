@@ -31,7 +31,7 @@ The goal is to predict house prices based on various features using different ma
 
 ### Model Building:
 - Data was split into training and test sets (80% training, 20% test).
--Linear Regression was initially used but gave a score of 0.52, showing moderate performance.
+- Linear Regression was initially used but gave a score of 0.52, showing moderate performance.
 - K-Nearest Neighbors (KNN) and Support Vector Regression (SVR) models were also tested.
 - KNN performed best, with a training score of 0.88 and a test score of 0.72.
 
@@ -43,5 +43,8 @@ The goal is to predict house prices based on various features using different ma
 ### Tools
 - Tools used: Pandas,Python,Sklearn,Matplotlib, Seaborn
 
-### Conclusion:
+### Conclusion and Benefits:
 KNN was the best model for predicting house prices in Gurgaon, with reasonable error and consistency across different training model tested.
+This model helps to enhances efficiency by automating the price prediction process, allowing for quicker
+responses in fast-paced markets.
+This Predictive models contribute to a better understanding of economic conditions through housing trends.
