@@ -24,6 +24,33 @@ The goal is to predict house prices based on various features using different ma
 - Data cleaning steps involve removing null values and handling duplicates.
 - Outliers in features like balcony, bedRoom, price_per_sqft, and price were treated using interquartile range (IQR) method.
 
+### Aim of the Gurgaon House Price Project
+- The primary aim of the Gurgaon House Price dataset is to provide structured information on real estate properties in Gurgaon, 
+  helping individuals or organizations understand the housing market. It serves as a foundation for:
+
+- Price Prediction: Estimating property prices based on features like size, location, and amenities.
+- Market Trends Analysis: Identifying trends in property values, rental yields, and demand hotspots.
+- Decision-Making: Assisting buyers, renters, investors, and developers in making informed decisions.
+
+## Benefits for Individuals
+1. Home Buyers
+Fair Pricing: Understand price trends across locations to avoid overpaying.
+Better Comparisons: Compare properties based on size, location, and amenities.
+Targeted Search: Identify areas with affordable properties or those matching their needs.
+2. Renters
+Rental Insights: Analyze rental prices and choose areas within their budget.
+Amenity Awareness: Know what facilities they can expect in different price ranges.
+3. Investors
+ROI Analysis: Identify high-growth neighborhoods for better investment returns.
+Market Trends: Forecast future property values based on past trends.
+4. Real Estate Agents/Developers
+Market Understanding: Pinpoint customer preferences and optimize their offerings.
+Competitive Pricing: Set competitive property prices to attract more buyers.
+5. Policymakers
+Urban Planning: Use insights to improve infrastructure in underdeveloped areas.
+Affordable Housing: Identify regions requiring affordable housing initiatives.
+
+
 ### Data Exploration:
 - Statistical analysis showed the distribution of features.
 - Correlations between features were determined with a significant correlation between price and bedRoom (0.28), and balcony (0.41).
